@@ -1,0 +1,27 @@
+BOT_TERMINAL CHANGELOG
+
+v1.0
+- Lanzamiento inicial. (✅)
+- Lista de jugadores. (✅)
+- Menú contextual. (✅)
+- Comandos básicos. (✅)
+- Ofuscacion. (✅)
+
+v1.1
+- Teletransporte integrado. (✅)
+- Eliminada la dependencia del script de TP. (✅)
+- Función de Encontrar Archivos reales. (✅)
+
+v1.2 (en Desarrollo)
+- Interfaz plegable.
+- Mejor gestión de ventanas.
+
+v1.3 (Planeado)
+- Añadir búsqueda de jugadores.
+- Tema claro/oscuro.
+- Sonidos al interactuar con Botones.
+
+v1.4 (Planeado)
+- Servicio IA.
+
+?
